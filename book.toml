@@ -1,0 +1,7 @@
+[book]
+authors = ["Paul Alfille"]
+language = "en"
+multilingual = false
+src = "src"
+title = "eMission Help"
+logo="images/emission11-web-white.jpg"
