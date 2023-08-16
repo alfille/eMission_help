@@ -15,6 +15,8 @@
 # General Description
 # Tasks
 # Page List
+- [Main Menu](MainMenu.md)
+- [Search](SearchList.md)
 # Administrator
 # Manager
 # Technical
