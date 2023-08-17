@@ -15,8 +15,12 @@
 # General Description
 # Tasks
 # Page List
+- [Common Elements](Layout.md)
 - [Main Menu](MainMenu.md)
 - [Search](SearchList.md)
+- [Notes]()
+  - [Elements]()
+  - [List](NoteList.md)
 # Administrator
 # Manager
 # Technical
