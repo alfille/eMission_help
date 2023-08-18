@@ -16,6 +16,10 @@
 # Tasks
 # Page List
 - [Common Elements](Layout.md)
+  - [Header](Header.md)
+  - [Patient Bar](PatientBar.md)
+  - [Working Area](Working.md)
+  - [Footer](Footer.md)
 - [Main Menu](MainMenu.md)
 - [Search](SearchList.md)
 - [Notes]()
