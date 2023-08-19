@@ -16,4 +16,4 @@ On most pages, the Mission Logo will be smaller, and more options offered:
 ![](images/Top2.png)
 
 * **Return** usually returns to the previous page
-* **Save**, **Edit**, **Add** depending on the context of the work area.
+* **Save**, **Edit**, **Add** may be choices depending on the context of the work area.

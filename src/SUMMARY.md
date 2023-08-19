@@ -2,10 +2,7 @@
 
 [Overview of eMission]()
 # Quick Start
- - [Getting Started]()
-    - [What you will need]()
-    - [Getting Access]()
-    - [Getting Data]()
+ - [Getting Started](GetStarted.md)
  - [Explore]() 
     - [Look at Patient List]()
     - [Choose a Patient]()
