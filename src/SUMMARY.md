@@ -11,6 +11,8 @@
  - [Next Steps]()
 # General Description
 # Tasks
+- [Add A Patient](AddPatient.md)
+- [Edit A Note](NoteEdit.md)
 # Page List
 - [Common Elements](Layout.md)
   - [Header](Header.md)
@@ -18,9 +20,11 @@
   - [Working Area](Working.md)
   - [Footer](Footer.md)
 - [Main Menu](MainMenu.md)
+- [New Patient](PatientNew.md)
 - [Search](SearchList.md)
 - [Notes]()
-  - [Elements]()
+  - [New Note]()
+  - [New Photo]()
   - [List](NoteList.md)
 # Administrator
 # Manager
