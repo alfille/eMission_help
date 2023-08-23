@@ -26,9 +26,12 @@
   - [New Note]()
   - [New Photo]()
   - [List](NoteList.md)
+- [Administration](Administration.md)
+  - [Administrative Console](Fauxton.md)
 # Administrator
 # Manager
-# Technical
+# Technical Aspects
+- [Security](Security.md)
 # License, Usage and Support
 [General Description]()
 - [Legal and Stuff]()
