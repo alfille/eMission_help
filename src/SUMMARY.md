@@ -27,7 +27,9 @@
   - [New Photo]()
   - [List](NoteList.md)
 - [Administration](Administration.md)
-  - [Administrative Console](Fauxton.md)
+  - [Super User (Top level access)](SuperUser.md)
+  - [Database Console](Fauxton.md)
+  - [User List](UserList.md)
 # Administrator
 # Manager
 # Technical Aspects

@@ -13,3 +13,4 @@ This is a link to the Couchdb database administration console on the remote serv
 * Create a new mission database
 * Edit Users, and permissions (although it is probably easier in the program)
 * Direct inspection/editing of records
+* Set up replication to a backup couchdb server

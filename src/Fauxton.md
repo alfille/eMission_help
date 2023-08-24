@@ -1,4 +1,4 @@
-# Administrative Console
+# Database Console
 
 This is a link to the Couchdb database administration console on the remote server.
 
