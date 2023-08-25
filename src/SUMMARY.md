@@ -29,7 +29,9 @@
 - [Administration](Administration.md)
   - [Super User (Top level access)](SuperUser.md)
   - [Database Console](Fauxton.md)
-  - [User List](UserList.md)
+  - [List Users for Editing](UserList.md)
+  - [List Users for Membership](MissionMembers.md)
+  - [Edit a User](UserEdit.md)
 # Administrator
 # Manager
 # Technical Aspects

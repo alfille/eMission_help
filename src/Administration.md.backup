@@ -14,7 +14,6 @@ The main administrative task menu
   * Direct database controls on the server
   * *needs SuperUser access*
 * **Database Information** 
-  * metadata provided by the database program
-* **Merge Patient Records** 
-   * specialized routine
+metadata provided by the database program
+* **Merge Patient Records** Specialized routine
  
