@@ -1,30 +1,23 @@
-# Summary
-
-[Overview of eMission]()
-# Quick Start
- - [Getting Started](GetStarted.md)
- - [Explore]() 
-    - [Look at Patient List]()
-    - [Choose a Patient]()
-    - [Look at Patient Notes]()
-    - [Add_a_Picture]()
- - [Next Steps]()
-# General Description
-# Tasks
-- [Add A Patient](AddPatient.md)
-- [Edit A Note](NoteEdit.md)
-# Page List
+- [Overview of eMission](Overview.md)
+  - [Get Started](GetStarted.md)
+  - [Add A Patient](AddPatient.md)
+  - [Edit A Note](NoteEdit.md)
+# All Pages
 - [Common Elements](Layout.md)
   - [Header](Header.md)
   - [Patient Bar](PatientBar.md)
   - [Working Area](Working.md)
   - [Footer](Footer.md)
 - [Main Menu](MainMenu.md)
-- [Patients]()
+- [Patient](Patient.md)
   - [Patient List](AllPatients.md)
+  - [Patient Menu](PatientPhoto.md)
   - [New Patient](PatientNew.md)
 - [Search](SearchList.md)
-- [Notes]()
+- [Operations](Operations.md)
+  - [OperationList](OperationList.md)
+  - [OperationEdit](OperationEdit.md)
+- [Notes](Notes.md)
   - [New Note]()
   - [New Photo]()
   - [List](NoteList.md)

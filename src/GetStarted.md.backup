@@ -1,14 +1,21 @@
 # Getting Started with eMission
 
-### What you will need:
+### Install
+ 
+There is nothing to install, _per se,_ eMission runs completely in your browser
 
-* A Device
-  * Smart phone (iPhone or Android for example) or Tablet
-  * Laptop (Mac, Windows, Chromebook) or computer
-  * Tablet
-* A web browser
   * Chrome, Firefox, Safari, Edge, Opera,...
 ![](images/Browser.png)
+
+### Device
+
+Lots of choices:
+
+* Smart phone (iPhone or Android for example) or Tablet
+* Laptop (Mac, Windows, Chromebook) or computer
+
+### Invitation
+
 * Name, password and link from your mission leader. This will be an email or letter with either:
   * QR code ![](images/QR.png)
   * or text credentials![](images/Email.png)
@@ -17,7 +24,7 @@
 
 ### It's free
 
-There is no program or app to install. No license to agree to. No fee.
+No license to agree to. No fee. Even the source code is free and available.
 
 ### It's easy
 
