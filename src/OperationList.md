@@ -1,6 +1,6 @@
-# Operation List
+# Operation List (for a specific patient)
 
-For a specific patient, **Operations** will give a list of operations.
+From the **Patient Menu**, **Operations** will give a list of operations.
 
 ![](images/OperationList.png)
 
